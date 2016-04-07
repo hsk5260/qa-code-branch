@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SagarShrustiTemplate.master.cs"
+    Inherits="Sagar_Shrushti.SagarShrustiTemplate" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Sagar Shrushti Beach Resort | Nagaon Bunder Road | Alibaug</title>
+    <meta name="description" content="Sagar Shrushti is a beach resort located at Nagaon which is on the Alibaug-Revdanda-Murud road and is just 7 km away from Alibaug" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="SagarShrushti_Stylesheet.css" rel="Stylesheet" type="text/css" />
+
+    <script src="floating-1.5.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-45296899-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="site_background" runat="server" class="SiteBackground">
+    <form id="form1" runat="server" method="post" class="SiteForm" onsubmit="return validate_form();">
+    <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+    </asp:ToolkitScriptManager>
+    <div id="TopPanel">
+    </div>
+    <div id="LayoutTable">
+        <div id="SiteHeaderRow" class="site-header-row">
+            <div class="site-header-image">
+                <img src="Images/Logo Sagar Shrushi.png" alt="Sagar Shrushti Logo" id="SiteHeaderImage" />
+            </div>
+            <div id="SiteHeaderPara">
+                Get away from the maddening crowd, polluted air, stress and tension of urban life
+                and enjoy quiet and quality time with your family and friends at Sagar Shrushti.<br />
+                <br />
+                At Sagar Shrushti you will be surrounded by a WADI full of Coconut, Betel Nut and
+                Banana trees. You can walk to the beach in just a few steps through a private access
+                from the beach house.<br />
+                <br />
+                Sagar Shrushti beach resort is located at Nagaon on the Alibaug-Revdanda-Murud road
+                and is just 7 km from Alibaug.<br />
+                <span style="color:#006400">Like us on our Facebook Page: <a href="https://www.facebook.com/SagarShrushti2004/">https://www.facebook.com/SagarShrushti2004/</a></span>
+            </div>
+        </div>
+        <div id="NavigationBarCell">
+            <div id="FloatingMenu" style="position: absolute; width: 196px; border-right: outset 3px #B2DBFF;
+                border-top: solid 3px #2E5B82; border-bottom: solid 3px #2E5B82; background-color: #070F16;">
+                <asp:TreeView ID="NavigationBar" runat="server" CssClass="NavigationBar" DataSourceID="SS_SiteMapDataSource"
+                    ExpandDepth="FullyExpand" ShowExpandCollapse="false">
+                    <NodeStyle ImageUrl="~/Images/palmtree_icon.png" CssClass="TreeNodes" />
+                    <HoverNodeStyle CssClass="TreeNodesHoverStyle" />
+                    <SelectedNodeStyle ImageUrl="~/Images/palmtree_iconhighlight.png" CssClass="TreeNodesHighlightStyle" />
+                </asp:TreeView>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            floatingMenu.add('FloatingMenu',
+            {
+                targetTop: 40,
+                prohibitXMovement: true,
+                snap: true
+            });  
+        </script>
+
+        <div id="ContentHolder">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div id="BottomPanel">
+    </div>
+    <asp:SiteMapDataSource ID="SS_SiteMapDataSource" runat="server" ShowStartingNode="false" />
+    </form>
+</body>
+</html>

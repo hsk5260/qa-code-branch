@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Root" description="RootPage">
+      <siteMapNode url="~/default.aspx" title="Home"  description="Home Page | Sagar Shrushti Beach Resort"></siteMapNode>
+      <siteMapNode url="~/Gallery.aspx" title="Photo Gallery" description="Photo Gallery | Sagar Shrushti"></siteMapNode>
+      <siteMapNode url="~/RoomRates.aspx" title="Room Tariff" description="Room Tariff | Room Rates | Sagar Shrushti"></siteMapNode>
+      <siteMapNode url="~/MealCharges.aspx" title="Meal Charges" description="Meal Charges | Sagar Shrushti"></siteMapNode>
+      <siteMapNode url="~/Location.aspx" title="How To Reach" description="How To Reach | Location | Sagar Shrushti"></siteMapNode>
+      <siteMapNode url="~/Facilities.aspx" title="Facilities" description="Facilities And Amenities | Sagar Shrushti"></siteMapNode>
+      <siteMapNode url="~/ThingsToDo.aspx" title="Things To Do" description="Things To Do | Place Of Interest | Sagar Shrushti"></siteMapNode>
+      <siteMapNode url="~/ContactUs.aspx" title="Contact Us" description="Contact Details | Sagar Shrushti"></siteMapNode>
+      <siteMapNode url="~/Feedback.aspx" title="Feedback" description="Feedback Form | Sagar Shrushti"></siteMapNode>
+  </siteMapNode>
+</siteMap>

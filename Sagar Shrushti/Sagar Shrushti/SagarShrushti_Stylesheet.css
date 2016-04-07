@@ -1,0 +1,527 @@
+﻿*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.SiteBackground
+{
+    background: #272B46 repeat;
+}
+.SiteForm
+{
+    margin-left: 3%;
+    margin-right: 3%;
+    min-width: 770px;
+    max-width: 1250px;
+}
+#TopPanel
+{
+    background-image: url(Images/topbar_1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 95px;
+}
+#LayoutTable
+{
+    width: 100%;
+    border-left: outset 3px #515991;
+    border-right: outset 3px #515991;
+    border-top: outset 3px #515991;
+    border-bottom: outset 3px #515991;
+}
+#BottomPanel
+{
+    background-image: url(Images/bottombar.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 95px;
+}
+.site-header-row
+{
+    width: 100%;
+    background-image: url(Images/header.jpg);
+    background-repeat: repeat-x;
+    min-height: 230px;
+    font-size: 16px;
+    font-family: Trebuchet MS;
+    line-height: 19px;
+    color: #6570B6;
+    max-height:260px;
+}
+div.site-header-image
+{
+    height:100%;
+    width: 285px;
+    vertical-align:middle;
+    float: right;
+    display:table-cell;
+    text-align:center;
+}
+div.site-header-image img 
+{
+    vertical-align:middle;
+}
+#SiteHeaderPara
+{
+    padding: 15px 0px 15px 15px;
+    text-align: center;
+    vertical-align:middle;
+}
+.NavigationBar
+{
+    background-image: url(Images/navi_bar.png);
+    background-repeat: repeat-y;
+    width: 196px;
+    height: 441px;
+}
+#NavigationBarCell
+{
+    width: 200px;
+    float: left;
+    border: solid 1px #272B46;
+    background-color: #070F16;
+    position: relative;
+    display: table-cell;
+}
+.TreeNodes
+{
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 15px 0 16px 6px;
+    color: #FCFFFF;
+    width: 100%;
+}
+.TreeNodesHoverStyle
+{
+    font-family: Georgia;
+    font-size: 16px;
+    padding: 15px 0 16px 6px;
+    font-weight: bold;
+    background-image: url(Images/hover_treenode.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #5E5839;
+}
+.TreeNodesHighlightStyle
+{
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 15px 0 16px 6px;
+    background-image: url(Images/hover_treenode.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #5E5839;
+}
+#ContentHolder
+{
+    background-image: url(Images/contentBackground.jpg);
+    background-repeat: repeat-y;
+    max-height: 3359px;
+    min-height: 1315px;
+    padding-left: 200px;
+}
+#HistoryPara
+{
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #B2DBFF;
+    padding: 25px 25px 10px 25px;
+    text-align: justify;
+    line-height: 24px;
+    overflow: hidden;
+}
+#HistoryHeader
+{
+    font-family: Trebuchet MS;
+    color: #B2DBFF;
+    font-size: 16px;
+    text-align: justify;
+    min-width: 150px;
+    max-width: 560px;
+    display: table-cell;
+    padding-right: 15px;
+}
+#testimonialsPanel
+{
+    min-width: 150px;
+    max-width: 420px;
+    height: auto;
+    padding: 8px;
+    text-align: center;
+    color: White;
+    border-left: solid 3px #5A7791;
+    margin: 0px auto;
+    font-size: 14px;
+    display: table-cell;
+    padding-left: 10px;
+}
+#HistoryBulletList
+{
+    padding: 15px 0px 15px 30px;
+    list-style-image: url(Images/betelnut_bullet3.png);
+}
+#LocationPanel
+{
+    padding: 25px 25px 10px 25px;
+    text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 20px;
+    color: #B2DBFF;
+    font-weight: bold;
+}
+.ImagePopupPanel
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.ModalBackground
+{
+    background-color: Black;
+    filter: alpha(opacity=75);
+    opacity: 0.75;
+}
+.Thumbnail
+{
+    width: 465px;
+    height: 390px;
+    cursor: pointer;
+}
+.ImgPopup
+{
+    position: relative;
+    width: 78%;
+    border: solid 4px #5A7791;
+    max-width: 679px;
+}
+.ImgMapPopup
+{
+    position: relative;
+    width: 90%;
+    max-width: 810px;
+}
+#FacilitiesPanel
+{
+    padding: 25px 25px 10px 25px;
+    text-align: center;
+}
+.FacilitiesBulletList
+{
+    padding: 10px 0px 10px 20px;
+    text-indent: -3px;
+    list-style-image: url(Images/betelnut_bullet3.png);
+    text-align: justify;
+}
+#ThingsToDoPanel
+{
+    padding: 25px 25px 10px 25px;
+    text-align: center;
+}
+#ThingsToDoHeader
+{
+    font-family: Trebuchet MS;
+    font-size: 24px;
+    color: #B2DBFF;
+    font-style: italic;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    padding-bottom: 15px;
+}
+.VisitPlacesImages
+{
+    width: 276px;
+    height: 220px;
+    border-color: #5A7791;
+    border-style: solid;
+    border-width: 4px;
+}
+.VisitPlacesPanels
+{
+    text-align: center;
+    font-weight: bold;
+    font-family: Trebuchet MS;
+    color: #B2DBFF;
+    font-size: 16px;
+    width: 306px;
+    height: 277px;
+    display: inline-table;
+    padding-bottom: 5px;
+}
+.ThingsToDoBulletList
+{
+    text-align: justify;
+    padding: 10px 0px 10px 25px;
+}
+.ThingsToDoBody
+{
+    padding-top: 10px;
+    text-align: justify;
+    font-family: Trebuchet MS;
+    color: #B2DBFF;
+    font-size: 16px;
+    border-top: solid 3px #5A7791;
+}
+.SecondVisitPlacesPanels
+{
+    text-align: center;
+    font-family: Trebuchet MS;
+    color: #B2DBFF;
+    font-size: 12px;
+    width: 306px;
+    height: 237px;
+    display: inline-table;
+    padding-bottom: 5px;
+}
+#RoomRatesPanel
+{
+    padding: 25px 25px 10px 25px;
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #B2DBFF;
+    text-align: justify;
+}
+.RoomRatesTableHeaders
+{
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #B2DBFF;
+    font-style: italic;
+    font-weight: bold;
+    border: outset 4px #B2DBFF;
+    background-color: #272B46;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+}
+.RoomRatesTableHeaders2
+{
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #B2DBFF;
+    font-style: italic;
+    font-weight: bold;
+    border-bottom: solid 2px #5A7791;
+    border-right: solid 2px #5A7791;
+    background-color: #313956;
+    padding: 5px 0px 5px 0px;
+}
+.RoomRatesTableCells
+{
+    font-family: Arial;
+    font-size: 16px;
+    color: #B2DBFF;
+    border-bottom: solid 2px #5A7791;
+    border-right: solid 2px #5A7791;
+}
+.RoomRatesBulletList
+{
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #B2DBFF;
+    list-style-image: url(Images/betelnut_bullet3.png);
+    padding: 20px 0px 10px 25px;
+    text-align: left;
+    font-weight: bold;
+}
+#RoomFacilitesBulletList.RoomRatesBulletList
+{
+    text-align:left;
+    padding:10px 0px 5px 0px;
+    list-style-image: url(Images/betelnut_bullet.png);
+}
+#RoomFacilitesBulletList.RoomRatesBulletList li
+{
+    list-style-position:inside;
+    padding-bottom:5px;
+}
+.room-facilites-bullet-list
+{
+    font-size: 16px;
+    text-align:left;
+    font-weight:bold;
+    color:Orange;
+    margin-left:auto;
+    margin-right:auto;
+    min-width:425px;
+    max-width:530px;
+}
+.RoomRatesTableSideNotice
+{
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 14px;
+    color: White;
+    font-weight: bold;
+    width: 170px;
+    border: solid 3px #5A7791;
+    padding: 0px 5px 0px 10px;
+    line-height: 22px;
+}
+.RoomRatesTableBottomNotice
+{
+    text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 14px;
+    color: Orange;
+    font-weight: bold;
+    border: solid 3px #5A7791;
+    padding: 0px 5px 0px 5px;
+    line-height: 22px;
+}
+#MealChargesPanel
+{
+    padding: 25px 25px 10px 25px;
+}
+#MealChargesBulletList
+{
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #B2DBFF;
+    padding: 20px 0px 10px 25px;
+    text-align: justify;
+    list-style-type:none;
+    list-style-position: inside;
+}
+.MealChargesBullets
+{
+    padding-bottom: 160px;
+    padding-top: 25px;
+    padding-left: 0px;
+    border-bottom: solid 3px #5A7791;
+    list-style-position: inside;
+    text-indent: -1.5em;
+}
+.MealChargesImages
+{
+    border: solid 3px #5A7791;
+    float: right;
+    margin-left: 10px;
+}
+.MealChargesAlternateImages
+{
+    border: solid 3px #5A7791;
+    float: left;
+    margin-right: 30px;
+}
+.MealChargesNonVegBullets
+{
+    color: White;
+}
+#HomePanel
+{
+    padding: 25px 25px 10px 25px;
+    text-align: center;
+}
+.ImageGalleryPanels
+{
+    text-align: center;
+    font-family: Trebuchet MS;
+    color: #B2DBFF;
+    width: 306px;
+    height: 257px;
+    font-size: 16px;
+    display: inline-table;
+}
+.ImageGalleryThumbnails
+{
+    width: 220px;
+    height: 175px;
+    border: solid 4px #5A7791;
+    cursor: pointer;
+    filter: alpha(opacity=75);
+    opacity: 0.75;
+}
+.CloseButton
+{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.RoomImages
+{
+    width: 300px;
+    height: 225px;
+    border-color: #5A7791;
+    border-style: solid;
+    border-width: 4px;
+}
+#ContactUsPanel
+{
+    padding: 25px 25px 10px 25px;
+    text-align: justify;
+    font-family: Trebuchet MS;
+    font-size: 16px;
+}
+#FeedbackForm
+{
+    padding: 25px 25px 10px 25px;
+}
+#FeedbackFormList
+{
+    padding: 15px 0px 15px 30px;
+    list-style-image: url(Images/betelnut_bullet3.png);
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #B2DBFF;
+}
+.SuggestionBox
+{
+    resize: none;
+}
+#FeedbackNotesList
+{
+    padding: 15px 0px 15px 30px;
+    font-family: Trebuchet MS;
+    font-size: 14px;
+    color: #B2DBFF;
+}
+.LocationAccordionHeader
+{
+    border: outset 3px #D8D8D8;
+    background-image: url(Images/accordionHeader1.jpg);
+    background-repeat: repeat-y;
+}
+.AccordionHeaderSelected
+{
+    border: inset 3px #D8D8D8;
+    background-image: url(Images/accordionHeader2.jpg);
+    background-repeat: repeat-y;
+}
+.LocationAccordion
+{
+}
+.LocationAccordionContent
+{
+    border: solid 3px #6D8FAD;
+    text-align: center;
+}
+.FeedbackFormLabels
+{
+    display: inline-block;
+    font-weight: bold;
+    width: 200px;
+    margin-right: 20px;
+    text-align: left;
+}
+.TestimonialSubscript
+{
+    color: #B2DBFF;
+    font-weight: bold;
+}
+#MealChargesNoticeTable
+{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.MealChargesNoticeTableCells
+{
+    font-size: 18px;
+    color: White;
+    border: solid 2px #5A7791;
+    min-width:150px;
+    max-width:450px;
+    padding:5px 5px 5px 5px;
+}

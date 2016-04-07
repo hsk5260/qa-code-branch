@@ -1,0 +1,276 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CE53C016-C040-4DEA-B42E-B74874C9FEC8}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sagar_Shrushti</RootNamespace>
+    <AssemblyName>Sagar Shrushti</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SignAssembly>false</SignAssembly>
+    <DelaySign>false</DelaySign>
+    <TargetFrameworkSubset>Full</TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.0.31106.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Ajax, Version=3.0.31106.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="default.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Facilities.aspx.cs">
+      <DependentUpon>Facilities.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Facilities.aspx.designer.cs">
+      <DependentUpon>Facilities.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Feedback.aspx.cs">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Feedback.aspx.designer.cs">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Gallery.aspx.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Gallery.aspx.designer.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Location.aspx.cs">
+      <DependentUpon>Location.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Location.aspx.designer.cs">
+      <DependentUpon>Location.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MealCharges.aspx.cs">
+      <DependentUpon>MealCharges.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MealCharges.aspx.designer.cs">
+      <DependentUpon>MealCharges.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RoomRates.aspx.cs">
+      <DependentUpon>RoomRates.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RoomRates.aspx.designer.cs">
+      <DependentUpon>RoomRates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SagarShrustiTemplate.Master.cs">
+      <DependentUpon>SagarShrustiTemplate.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SagarShrustiTemplate.Master.designer.cs">
+      <DependentUpon>SagarShrustiTemplate.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ThingsToDo.aspx.cs">
+      <DependentUpon>ThingsToDo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ThingsToDo.aspx.designer.cs">
+      <DependentUpon>ThingsToDo.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AjaxControlToolkit\AjaxControlToolkit.dll" />
+    <Content Include="AjaxControlToolkit\AjaxControlToolkit.pdb" />
+    <Content Include="AjaxControlToolkit\System.Web.Ajax.dll" />
+    <Content Include="AjaxControlToolkit\System.Web.Ajax.pdb" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="Facilities.aspx" />
+    <None Include="floating-1.5.js">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\main.gif" />
+    <None Include="Images\topbar.jpg" />
+    <None Include="Images\navi_bar.png" />
+    <None Include="Images\palmtree_icon.png" />
+    <None Include="Images\palmtree_iconhighlight.png" />
+    <None Include="Images\logo.png" />
+    <None Include="Images\header.jpg" />
+    <None Include="Images\contentBackground.jpg" />
+    <None Include="Images\betelnut_bullet.png" />
+    <None Include="Images\location_map.png" />
+    <None Include="Images\close-icon.png" />
+    <None Include="Images\betelnut_bullet2.png" />
+    <None Include="Images\Murud_Janjira.jpg" />
+    <None Include="Images\datta_mandir.jpg" />
+    <None Include="Images\birla_mandir.jpg" />
+    <None Include="Images\alibaug_fort.jpg" />
+    <None Include="Images\karmarkar_museum.jpg" />
+    <None Include="Images\kashid_beach.jpg" />
+    <None Include="Images\betelnut_bullet3.png" />
+    <None Include="Images\facilitesImage.jpg" />
+    <None Include="Images\thali.jpg" />
+    <None Include="Images\fish.jpg" />
+    <None Include="Images\chicken.jpg" />
+    <None Include="Images\breakfast.jpg" />
+    <None Include="Images\sunset2.jpg" />
+    <None Include="Images\sunset.jpg" />
+    <None Include="Images\location_mapLarge.png" />
+    <None Include="Images\next_icon.png" />
+    <None Include="Images\prev_icon.png" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 027.jpg" />
+    <None Include="Images\DSC01249.jpg" />
+    <None Include="Images\DSC01256.jpg" />
+    <None Include="Images\DSC01258.jpg" />
+    <None Include="Images\DSC01261.jpg" />
+    <None Include="Images\Picture 004.jpg" />
+    <None Include="Images\Picture 015.jpg" />
+    <None Include="Images\Picture 016.jpg" />
+    <None Include="Images\Picture 017.jpg" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 017.jpg" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 025.jpg" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 026.jpg" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 027small.jpg" />
+    <None Include="Images\DSC01249small.jpg" />
+    <None Include="Images\DSC01256small.jpg" />
+    <None Include="Images\DSC01258small.jpg" />
+    <None Include="Images\DSC01261small.jpg" />
+    <None Include="Images\Picture 004small.jpg" />
+    <None Include="Images\Picture 015small.jpg" />
+    <None Include="Images\Picture 016small.jpg" />
+    <None Include="Images\Picture 017small.jpg" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 017small.jpg" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 025small.jpg" />
+    <None Include="Images\Sony DSC-S40 %28Digital Camera%29 026small.jpg" />
+    <None Include="Images\2bedroom.jpg" />
+    <None Include="Images\4bedroom.jpg" />
+    <None Include="Images\specialItems.jpg" />
+    <None Include="Images\bottombar.jpg" />
+    <Content Include="Feedback.aspx" />
+    <Content Include="Gallery.aspx" />
+    <None Include="Images\ajax-loader.gif" />
+    <None Include="Images\beverages.jpg" />
+    <None Include="Images\snacks.jpg" />
+    <None Include="Images\topbar_1.jpg" />
+    <None Include="Images\Logo Sagar Shrushi.png" />
+    <None Include="Images\accordionHeader1.jpg" />
+    <None Include="Images\accordionHeader2.jpg" />
+    <None Include="Images\Boat.png" />
+    <Content Include="Images\road.png" />
+    <None Include="Images\Slide.jpg" />
+    <None Include="Images\Slidesmall.jpg" />
+    <None Include="Images\SAM_0627.JPG" />
+    <None Include="Images\SAM_0627small.jpg" />
+    <None Include="Images\SAM_0628.JPG" />
+    <None Include="Images\SAM_0628small.jpg" />
+    <Content Include="Location.aspx" />
+    <Content Include="MealCharges.aspx" />
+    <Content Include="richhtmlticker.js" />
+    <Content Include="RoomRates.aspx" />
+    <Content Include="SagarShrushti_Stylesheet.css" />
+    <Content Include="ThingsToDo.aspx" />
+    <Content Include="Web.sitemap" />
+    <Content Include="SagarShrustiTemplate.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>59798</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
