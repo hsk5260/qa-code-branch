@@ -209,6 +209,31 @@ div.site-header-image img
     padding: 25px 25px 10px 25px;
     text-align: center;
 }
+.FacilitiesColumns
+{
+	display:inline-table;
+	min-width: 420px;
+	max-width: 480px;
+	padding-left:8px;
+	padding-right:8px;
+	/*height:400px;*/
+}
+#FacilitiesHeader
+{
+	width:100%;
+}	
+#FacilitiesBody
+{
+	width:100%;
+}
+#LimitationsHeader
+{
+	width:100%;
+}
+#LimitationsBody
+{
+	width:100%;
+}
 .FacilitiesBulletList
 {
     padding: 10px 0px 10px 20px;

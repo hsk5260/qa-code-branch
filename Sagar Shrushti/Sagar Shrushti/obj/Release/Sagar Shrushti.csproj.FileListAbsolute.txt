@@ -1,0 +1,12 @@
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\bin\floating-1.5.js
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\bin\Sagar Shrushti.dll
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\bin\Sagar Shrushti.pdb
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\bin\AjaxControlToolkit.dll
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\bin\System.Web.Ajax.dll
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\bin\System.Web.Ajax.pdb
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\bin\AjaxControlToolkit.pdb
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\obj\Release\Sagar_Shrushti.Properties.Resources.resources
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\obj\Release\Sagar Shrushti.csproj.GenerateResource.Cache
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\obj\Release\Sagar Shrushti.dll
+C:\Users\Kale\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Sagar Shrushti\Sagar Shrushti\obj\Release\Sagar Shrushti.pdb
