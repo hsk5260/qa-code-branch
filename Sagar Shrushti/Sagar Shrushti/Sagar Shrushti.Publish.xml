@@ -1,13 +1,57 @@
 <publishData>
+  <publishTarget publishUrl="E:\WebSites2\Sagar Shrushti\">
+    <file relUrl="RoomRates.aspx" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="SagarShrustiTemplate.Master" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="Gallery.aspx" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="bin/System.Web.Ajax.dll" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/System.Web.Ajax.pdb" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="AjaxControlToolkit/System.Web.Ajax.dll" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="Feedback.aspx" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="MealCharges.aspx" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="Web.sitemap" publishTime="04/28/2016 18:10:07" />
+    <file relUrl="Location.aspx" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="AjaxControlToolkit/System.Web.Ajax.pdb" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="Web.config" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="AjaxControlToolkit/AjaxControlToolkit.dll" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="ContactUs.aspx" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="SagarShrushti_Stylesheet.css" publishTime="04/28/2016 18:17:04" />
+    <file relUrl="Images/road.png" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/Sagar Shrushti.dll" publishTime="04/24/2016 00:24:44" />
+    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="richhtmlticker.js" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="AjaxControlToolkit/AjaxControlToolkit.pdb" publishTime="04/23/2016 23:16:21" />
+    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/Sagar Shrushti.pdb" publishTime="04/24/2016 00:24:44" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="Facilities.aspx" publishTime="04/24/2016 01:19:03" />
+    <file relUrl="ThingsToDo.aspx" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="bin/floating-1.5.js" publishTime="04/23/2016 23:16:22" />
+    <file relUrl="default.aspx" publishTime="04/28/2016 17:55:54" />
+  </publishTarget>
   <publishTarget publishUrl="C:\WebSites2\Sagar Shrushti\">
     <file relUrl="RoomRates.aspx" publishTime="04/11/2016 11:26:21" />
-    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="Web.sitemap" publishTime="04/11/2016 11:26:21" />
     <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
+    <file relUrl="SagarShrustiTemplate.Master" publishTime="04/11/2016 11:26:21" />
     <file relUrl="Gallery.aspx" publishTime="04/11/2016 11:26:18" />
     <file relUrl="bin/System.Web.Ajax.dll" publishTime="04/11/2016 11:26:17" />
     <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
-    <file relUrl="bin/System.Web.Ajax.pdb" publishTime="04/11/2016 11:26:18" />
+    <file relUrl="AjaxControlToolkit/System.Web.Ajax.dll" publishTime="04/11/2016 11:26:17" />
     <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="04/11/2016 11:26:17" />
     <file relUrl="Feedback.aspx" publishTime="04/11/2016 11:26:18" />
     <file relUrl="MealCharges.aspx" publishTime="04/11/2016 11:26:21" />
@@ -15,9 +59,10 @@
     <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="ContactUs.aspx" publishTime="04/11/2016 11:26:18" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="bin/floating-1.5.js" publishTime="04/11/2016 11:26:23" />
     <file relUrl="Location.aspx" publishTime="04/11/2016 11:26:21" />
-    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
+    <file relUrl="bin/System.Web.Ajax.pdb" publishTime="04/11/2016 11:26:18" />
     <file relUrl="bin/AjaxControlToolkit.dll" publishTime="04/11/2016 11:26:17" />
     <file relUrl="AjaxControlToolkit/System.Web.Ajax.pdb" publishTime="04/11/2016 11:26:18" />
     <file relUrl="Web.config" publishTime="04/11/2016 11:26:21" />
@@ -31,7 +76,6 @@
     <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="bin/Sagar Shrushti.dll" publishTime="04/11/2016 12:59:58" />
     <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
-    <file relUrl="AjaxControlToolkit/System.Web.Ajax.dll" publishTime="04/11/2016 11:26:17" />
     <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="richhtmlticker.js" publishTime="04/11/2016 11:26:24" />
@@ -40,57 +84,13 @@
     <file relUrl="bin/Sagar Shrushti.pdb" publishTime="04/11/2016 12:59:58" />
     <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="Facilities.aspx" publishTime="04/11/2016 14:01:42" />
-    <file relUrl="SagarShrustiTemplate.Master" publishTime="04/11/2016 11:26:21" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="04/11/2016 11:26:22" />
     <file relUrl="default.aspx" publishTime="04/11/2016 11:26:22" />
-  </publishTarget>
-  <publishTarget publishUrl="E:\WebSites2\Sagar Shrushti\">
-    <file relUrl="RoomRates.aspx" publishTime="03/04/2016 00:13:16" />
-    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="Gallery.aspx" publishTime="11/26/2015 22:12:37" />
-    <file relUrl="bin/System.Web.Ajax.dll" publishTime="11/17/2009 08:37:00" />
-    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
-    <file relUrl="AjaxControlToolkit/System.Web.Ajax.dll" publishTime="11/17/2009 08:37:00" />
-    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="11/17/2009 08:37:02" />
-    <file relUrl="Feedback.aspx" publishTime="12/21/2014 00:18:20" />
-    <file relUrl="MealCharges.aspx" publishTime="11/26/2015 22:23:38" />
-    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
-    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="Web.sitemap" publishTime="06/15/2014 18:22:58" />
-    <file relUrl="Location.aspx" publishTime="12/21/2014 00:17:31" />
-    <file relUrl="bin/System.Web.Ajax.pdb" publishTime="11/17/2009 08:37:00" />
-    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="11/17/2009 08:37:02" />
-    <file relUrl="AjaxControlToolkit/System.Web.Ajax.pdb" publishTime="11/17/2009 08:37:00" />
-    <file relUrl="Web.config" publishTime="11/26/2015 22:33:17" />
-    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
-    <file relUrl="AjaxControlToolkit/AjaxControlToolkit.dll" publishTime="11/17/2009 08:37:02" />
-    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="ContactUs.aspx" publishTime="03/01/2016 22:51:28" />
-    <file relUrl="SagarShrushti_Stylesheet.css" publishTime="03/04/2016 00:13:12" />
-    <file relUrl="Images/road.png" publishTime="12/28/2013 22:56:26" />
-    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="bin/Sagar Shrushti.dll" publishTime="02/29/2016 08:53:03" />
-    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
-    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
-    <file relUrl="richhtmlticker.js" publishTime="10/21/2014 21:48:13" />
-    <file relUrl="AjaxControlToolkit/AjaxControlToolkit.pdb" publishTime="11/17/2009 08:37:02" />
-    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
-    <file relUrl="bin/Sagar Shrushti.pdb" publishTime="02/29/2016 08:53:03" />
-    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="Facilities.aspx" publishTime="03/04/2016 00:23:15" />
-    <file relUrl="ThingsToDo.aspx" publishTime="03/11/2015 22:43:01" />
-    <file relUrl="SagarShrustiTemplate.Master" publishTime="03/03/2016 22:03:09" />
-    <file relUrl="bin/floating-1.5.js" publishTime="04/05/2011 05:51:10" />
-    <file relUrl="default.aspx" publishTime="02/09/2016 11:53:22" />
   </publishTarget>
   <publishTarget publishUrl="E:\WebSites\Sagar Shrushti\">
     <file relUrl="RoomRates.aspx" publishTime="12/23/2012 17:06:46" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
     <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
     <file relUrl="bin/System.Web.Ajax.dll" publishTime="11/17/2009 08:37:00" />
     <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
     <file relUrl="AjaxControlToolkit/System.Web.Ajax.dll" publishTime="11/17/2009 08:37:00" />
@@ -123,16 +123,16 @@
     <file relUrl="AjaxControlToolkit/AjaxControlToolkit.pdb" publishTime="11/17/2009 08:37:02" />
     <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
     <file relUrl="bin/Sagar Shrushti.pdb" publishTime="12/23/2012 17:10:57" />
-    <file relUrl="SagarShrustiTemplate.Master" publishTime="07/30/2012 04:58:53" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
     <file relUrl="Facilities.aspx" publishTime="07/30/2012 05:11:48" />
     <file relUrl="ThingsToDo.aspx" publishTime="07/30/2012 05:10:13" />
-    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
+    <file relUrl="SagarShrustiTemplate.Master" publishTime="07/30/2012 04:58:53" />
     <file relUrl="default.aspx" publishTime="01/05/2012 00:04:54" />
   </publishTarget>
   <publishTarget publishUrl="C:\Documents and Settings\Himanshu\My Documents\Visual Studio 2008\WebSites\Sagar Shrushti\">
     <file relUrl="RoomRates.aspx" publishTime="01/05/2012 00:48:54" />
     <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
-    <file relUrl="SagarShrustiTemplate.Master" publishTime="10/30/2011 19:15:19" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
     <file relUrl="bin/System.Web.Ajax.dll" publishTime="11/17/2009 08:37:00" />
     <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
     <file relUrl="AjaxControlToolkit/System.Web.Ajax.dll" publishTime="11/17/2009 08:37:00" />
@@ -165,7 +165,7 @@
     <file relUrl="AjaxControlToolkit/AjaxControlToolkit.pdb" publishTime="11/17/2009 08:37:02" />
     <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:06" />
     <file relUrl="bin/Sagar Shrushti.pdb" publishTime="01/05/2012 00:58:08" />
-    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
+    <file relUrl="SagarShrustiTemplate.Master" publishTime="10/30/2011 19:15:19" />
     <file relUrl="Facilities.aspx" publishTime="12/28/2011 04:54:59" />
     <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 08:37:04" />
     <file relUrl="default.aspx" publishTime="01/05/2012 00:04:54" />
@@ -173,7 +173,7 @@
   <publishTarget publishUrl="C:\Documents and Settings\Himanshu\My Documents\Visual Studio 2008\WebSites\">
     <file relUrl="RoomRates.aspx" publishTime="03/09/2011 17:58:37" />
     <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 19:07:04" />
-    <file relUrl="SagarShrustiTemplate.Master" publishTime="03/09/2011 17:38:21" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 19:07:04" />
     <file relUrl="bin/System.Web.Ajax.dll" publishTime="11/17/2009 19:07:00" />
     <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 19:07:06" />
     <file relUrl="AjaxControlToolkit/System.Web.Ajax.dll" publishTime="11/17/2009 19:07:00" />
@@ -206,7 +206,7 @@
     <file relUrl="AjaxControlToolkit/AjaxControlToolkit.pdb" publishTime="11/17/2009 19:07:02" />
     <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 19:07:06" />
     <file relUrl="bin/Sagar Shrushti.pdb" publishTime="03/09/2011 23:25:01" />
-    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 19:07:04" />
+    <file relUrl="SagarShrustiTemplate.Master" publishTime="03/09/2011 17:38:21" />
     <file relUrl="Facilities.aspx" publishTime="03/05/2011 20:07:28" />
     <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="11/17/2009 19:07:04" />
   </publishTarget>

@@ -63,21 +63,53 @@
                 the fact that more than 80% of our customers keep coming back to Sagar Shrushti.</span><br />
             <br />
             <div class="messagediv">
+                "One of the "bestest" stay ever had in recent years. Good food, Courteous service
+                and direct the access to the beach. Enjoyed thoroughly...Thank you for making our
+                stay memorable... Regards"
+                <br />
+                <span class="TestimonialSubscript">- Girish Kanbur (stayed in 4-bedded room)<br />
+                    18-Apr-2016</span>
+            </div>
+            <div class="messagediv">
+                "Thanks a lot for a nice stay. Resort is nicely maintained."
+                <br />
+                <span class="TestimonialSubscript">- Rohit Kolhe<br />
+                    10-Apr-2016</span>
+            </div>
+            <div class="messagediv">
+                "Good experience with cozy stay. Been to other properties in Nagaon earlier but
+                found this one pretty good. Compared to similar rates offered by other, facilities
+                and most important no disturbance and complete privacy for your family. They have
+                good area which allows kids to enjoy fully. Staff is nice and give heed to your
+                need. We had veg. food there which was apt portion-wise and taste was good too.
+                The satisfying things is that they also serve breakfast in open area off-course
+                if you don't litter. Pleasant time in morning to have Tea in fresh area and lots
+                of recreation activities in separate space. Private sort of beach area is just 90
+                meter walk away Quite satisfying experience. Recommended."
+                <br />
+                <span class="TestimonialSubscript">- Vipin Bhardwaj (stayed in 2-bedded room)<br />
+                    28-Dec-2015</span>
+            </div>
+            <div class="messagediv">
+                "We had a nice trip and the arrangements were good. Thank you"
+                <br />
+                <span class="TestimonialSubscript">- Mrs. Gupte<br />
+                    19-Nov-2015</span>
+            </div>
+            <div class="messagediv">
                 "Best getaway near Pune. Have been here multiple times, with friends, family and
                 family friends! The rooms are good enough, facilities are great and the beach is
-                awesome. 
-                
-                Facilities: They have a recreation room with indoor games like mini golf,
+                awesome. Facilities: They have a recreation room with indoor games like mini golf,
                 table tennis and carom, outdoor games like basketball and a badminton court, children
                 play area, lot of parking place and a dining room. They also provide facilities
                 of camp fire and barbecue for groups. The back gate of the resort opens directly
-                onto the beach and there are water sports available as well. 
-                Food: The food is awesome, Fish, Ukadiche Modak and Solkadhi are their specialties. Every time I ask them to
-                pack a few Modaks to take back home! 
-                Hospitality: The manager there Mr. Shekhar Kale is a wonderful person to chat with. He normally calls you in the morning of
+                onto the beach and there are water sports available as well. Food: The food is awesome,
+                Fish, Ukadiche Modak and Solkadhi are their specialties. Every time I ask them to
+                pack a few Modaks to take back home! Hospitality: The manager there Mr. Shekhar
+                Kale is a wonderful person to chat with. He normally calls you in the morning of
                 your booking date to make sure you get hot meal when you reach. Just make sure you
-                book well in advance, the place quickly gets full on long weekends. 
-                Cons: Not really much, but you could say that the rooms could have been better"
+                book well in advance, the place quickly gets full on long weekends. Cons: Not really
+                much, but you could say that the rooms could have been better"
                 <br />
                 <span class="TestimonialSubscript">- Nikhil Vanpal on Google Maps<br />
                     24-Nov-2015</span>

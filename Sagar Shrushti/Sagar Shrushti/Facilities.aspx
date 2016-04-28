@@ -40,12 +40,13 @@
         <div class="FacilitiesColumns">
             <div id="LimitationsHeader" style="padding-bottom: 8px; font-family: Trebuchet MS;
                 color: #B2DBFF; font-size: 24px; font-style: italic; font-weight: bolder;">
-                Our Limitations</div>
+                Our Constraints</div>
             <div id="LimitationsBody" style="font-family: Trebuchet MS; color: #B2DBFF; font-size: 16px;
                 text-align: left;">
                 <ul id="LimitationsList" class="FacilitiesBulletList">
                     <li style="padding-bottom: 18px;">&nbsp;Sagar Shrushti is not a star rated property.
                         It is a simple place to live near nature, more like a home stay</li>
+                    <li style="padding-bottom: 18px;">&nbsp;We do not accept Credit Cards</li>
                     <li style="padding-bottom: 18px;">&nbsp;We try our level best to make your stay comfortable
                         Being a rural area, sometimes it is not possible to serve you the best of comforts
                         and services; we expect guests to cooperate and bear with us at such times</li>
